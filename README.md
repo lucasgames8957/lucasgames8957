@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Making games
 - 🌱 I’m currently learning ... javascript
 - 💞️ I’m looking to collaborate on ... Happy wolf (can be bought at real_lucas_games.wixsite.com/cascade)
-- 📫 How to reach me ... Email me at LucasMutter@mail.com or open an issue.
+- 📫 How to reach me ... Email me at lukejmutter@gmail.com or open an issue.
 
 <!---
 lucasgames8957/lucasgames8957 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
