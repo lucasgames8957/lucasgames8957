@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucasgames8957
 - 👀 I’m interested in ... Making Apps and Websites
 - 🌱 I’m currently learning ... HTML
-- 💞️ I’m looking to collaborate on ... Happy wolf (can be bought at real_lucas_games.wixsite.com/cascade)
+- 💞️ I’m looking to collaborate on ... White Waters and info repos
 - 📫 How to reach me ... Email me at lukejmutter@gmail.com or open an issue.
 
 <!---
