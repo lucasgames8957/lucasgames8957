@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucasgames8957
 - 👀 I’m interested in ... Making Apps and Websites
 - 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ... TShock Plugins
+- 💞️ I’m looking to collaborate on ... [TShock Plugins](https://github.com/Pryaxis/Plugins)
 - 📫 How to reach me ... Email me at lukejmutter@gmail.com or open an issue.
 
 <!---
