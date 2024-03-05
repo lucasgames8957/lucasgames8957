@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello, my name is Lucas Mutter and I am a furry... yes... a furry. I'm a male, not transgender, and I identify as bisexual. I'm 5"5' tall and weigh 145 lbs. I'm also a Corporal in the JROTC program.
+Hello, my name is Lucas Mutter and I am a furry... yes... a furry. I'm a male, not transgender, and I identify as bisexual. I'm also a Corporal in the JROTC program.
 
 ## Fursonas
 
