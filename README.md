@@ -10,7 +10,7 @@ proof of notice:[![Screenshot 2024-03-25 10 03 53](https://github.com/lucasgames
 
 ## Requests
 
-It's time I start to accept requests, if you need help with anything feel free to [email me at lucasmutter.github@outlook.com](mailto:lucasmutter.github@outlook.com) or [text me at +1 (540) 266-4984](sms:+15402664984). If you text me it might not go through so I suggest you email me at my email address.
+It's time I start to accept requests, if you need help with anything feel free to [email me at lucasm.github@outlook.com](mailto:lucasm.github@outlook.com) or [text me at +1 (540) 266-4984](sms:+15402664984). If you text me it might not go through so I suggest you email me at my email address.
 
 ## Donating
 
