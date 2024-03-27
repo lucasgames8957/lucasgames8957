@@ -2,6 +2,16 @@
 
 Hello, it's Lucasgames8957 (or Furry-Lucas), the coder who is always making revisions to the visual elements of any program, and fixing anything that is broken or incorrect.
 
+## Data
+
+### "Github Stats"
+
+![Lucas's's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgames8957&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+### "Github Trophies"
+
+![Lucas's Github Trophies](https://github-trophies.vercel.app/?username=lucasgames8957&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
 ## Social
 
 I do have social media and I will be giving the links to the ones I am currently using.
