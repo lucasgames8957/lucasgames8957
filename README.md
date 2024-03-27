@@ -1,3 +1,26 @@
+<script>
+    import { Hovercards } from '@gravatar-com/hovercards';
+    // Import the hovercard styles
+    import '@gravatar-com/hovercards/dist/style.css';
+
+    document.addEventListener( 'DOMContentLoaded', () => {
+     // Start the hovercards feature with your preferred settings
+     const hovercards = new Hovercards( { /* Options */ } );
+
+     // Make hovercards work on a specific Gravatar image
+     hovercards.attach( document.getElementById( 'avatar-1' ) );
+
+      // Alternatively, make hovercards work on all Gravatar images within a specific container
+     hovercards.attach( document.getElementById( 'container' ) );
+
+      // If you want hovercards on all Gravatar images across the entire page, use `document.body` as   the target
+      hovercards.attach( document.body );
+
+      // You can exclude certain Gravatar images from hovercards by using `ignoreSelector`
+      hovercards.attach( document.body, { ignoreSelector: '.ignore img[src*="gravatar.com/avatar/"]' } );
+    } );
+</script>
+
 # Lucasgames8957 [![Lucas's Gravatar](https://gravatar.com/avatar/ee66228db4c81b93379dc71bcae33ed12dd4e9e53afbf7083ed26c49b419db16)](https://github.com/lucasgames8957)
 
 Hello, it's Lucasgames8957 (or Furry-Lucas), the coder who is always making revisions to the visual elements of any program, and fixing anything that is broken or incorrect.
