@@ -58,4 +58,14 @@ These are all my gravatar pfp's
 
 ## Extra
 
-[![ORCID](https://github.com/lucasgames8957/lucasgames8957/assets/116188960/2b892e6b-2bea-4df5-9c4c-ba67dea13bb3)](https://orcid.org/0009-0009-2228-5143)
+### Data from friends
+
+`None`
+
+### Data from organizations
+
+`None`
+
+### Data from other's
+
+`None`
