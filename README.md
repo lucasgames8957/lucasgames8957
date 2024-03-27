@@ -1,3 +1,4 @@
+---
 <script>
     import { Hovercards } from '@gravatar-com/hovercards';
     // Import the hovercard styles
@@ -20,6 +21,7 @@
       hovercards.attach( document.body, { ignoreSelector: '.ignore img[src*="gravatar.com/avatar/"]' } );
     } );
 </script>
+---
 
 # Lucasgames8957 [![Lucas's Gravatar](https://gravatar.com/avatar/ee66228db4c81b93379dc71bcae33ed12dd4e9e53afbf7083ed26c49b419db16)](https://github.com/lucasgames8957)
 
