@@ -16,6 +16,8 @@ Hello, it's Lucasgames8957 (or Furry-Lucas), the coder who is always making revi
 
 ## Data
 
+![Lucas's Profile Views](https://visitcount.itsvg.in/api?id=lucasgames8957&icon=0&color=0)
+
 ### "Github Stats"
 
 ![Lucas's's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgames8957&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
