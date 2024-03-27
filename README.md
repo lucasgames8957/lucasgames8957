@@ -22,7 +22,7 @@ It's time I start to accept requests, if you need help with anything feel free t
 
 ## Donating
 
-I don't want to drain anyone's bank accounts so no, you cannot donate :)
+I don't want to drain anyone's bank accounts so no, you cannot donate =D
 
 ## Gravatars
 
