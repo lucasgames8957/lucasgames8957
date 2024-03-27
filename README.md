@@ -2,11 +2,19 @@
 
 Hello, it's Lucasgames8957 (or Furry-Lucas), the coder who is always making revisions to the visual elements of any program, and fixing anything that is broken or incorrect.
 
-## Data
-
-### "Github Trophies"
-
 ![Lucas's Github Trophies](https://github-trophies.vercel.app/?username=lucasgames8957&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+## Table of Contents
+
+* [Data](https://github.com/lucasgames8957#data)
+* [Stats](https://github.com/lucasgames8957#github-stats)
+* [WakaTime Stats](https://github.com/lucasgames8957#wakatime-stats)
+* [Social](https://github.com/lucasgames8957#social)
+* [Tshock Plugins](https://github.com/lucasgames8957#tshock-plugins)
+* [Requests](https://github.com/lucasgames8957#requests)
+* [Extra](https://github.com/lucasgames8957#extra)
+
+## Data
 
 ### "Github Stats"
 
