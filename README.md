@@ -1,7 +1,3 @@
-<head>
-    <script src="https://www.gravatar.com/js/hovercards/hovercards.min.js"></script>
-</head>
-
 # Lucasgames8957 [![Lucas's Gravatar](https://gravatar.com/avatar/ee66228db4c81b93379dc71bcae33ed12dd4e9e53afbf7083ed26c49b419db16)](https://github.com/lucasgames8957)
 
 Hello, it's Lucasgames8957 (or Furry-Lucas), the coder who is always making revisions to the visual elements of any program, and fixing anything that is broken or incorrect.
@@ -15,6 +11,20 @@ Hello, it's Lucasgames8957 (or Furry-Lucas), the coder who is always making revi
 ### "Github Trophies"
 
 ![Lucas's Github Trophies](https://github-trophies.vercel.app/?username=lucasgames8957&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+### "WakaTime Stats"
+
+![Lucas's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=018e8096-27c8-44b6-9083-55469f2d7723)
+
+[![wakatime](https://wakatime.com/badge/user/018e8096-27c8-44b6-9083-55469f2d7723.svg)](https://wakatime.com/@018e8096-27c8-44b6-9083-55469f2d7723)
+
+<figure><embed src="https://wakatime.com/share/@Lucasgames8957/3f61cddb-c2d2-43fb-8f00-2d81473c529a.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@Lucasgames8957/020bd6a0-317e-42ba-8a33-f149814a329c.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@Lucasgames8957/d98175e1-8bbe-4015-8aa8-7a4a84698c09.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@Lucasgames8957/33b25623-4388-4a7d-b13c-64b71a47c6c0.svg"></embed></figure>
 
 ## Social
 
