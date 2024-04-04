@@ -46,7 +46,7 @@ I do have social media and I will be giving the links to the ones I am currently
 
 [Twitter](https://twitter.com/lucasgames8957)
 
-[Youtube![Lucas's Youtube PFP](https://yt3.googleusercontent.com/qyBdIpj0B4Zr87EsEhYSvOgCz4KBWA9u5QkmbYNPqLULCd67wK_BRcXN81HW3q-zE9UHNNMx=s176-c-k-c0x00ffffff-no-rj)(https://youtube.com/@Lmutt090)
+[Youtube![Lucas's Youtube PFP](https://yt3.googleusercontent.com/qyBdIpj0B4Zr87EsEhYSvOgCz4KBWA9u5QkmbYNPqLULCd67wK_BRcXN81HW3q-zE9UHNNMx=s176-c-k-c0x00ffffff-no-rj)](https://youtube.com/@Lmutt090)
 
 ## TShock Plugins
 
