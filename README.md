@@ -9,6 +9,7 @@ Hello, it's Lucasgames8957 (or Furry-Lucas), the coder who is always making revi
 * [Data](https://github.com/lucasgames8957#data)
 * [Stats](https://github.com/lucasgames8957#github-stats)
 * [WakaTime Stats](https://github.com/lucasgames8957#wakatime-stats)
+* [Road Card](#road-card)
 * [Social](https://github.com/lucasgames8957#social)
 * [Tshock Plugins](https://github.com/lucasgames8957#tshock-plugins)
 * [Requests](https://github.com/lucasgames8957#requests)
@@ -37,6 +38,10 @@ Hello, it's Lucasgames8957 (or Furry-Lucas), the coder who is always making revi
 <figure><embed src="https://wakatime.com/share/@Lucasgames8957/d98175e1-8bbe-4015-8aa8-7a4a84698c09.svg"></embed></figure>
 
 <figure><embed src="https://wakatime.com/share/@Lucasgames8957/33b25623-4388-4a7d-b13c-64b71a47c6c0.svg"></embed></figure>
+
+### "Road Card"
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/660fece7da1671f98624079b?variant=dark)](https://roadmap.sh)
 
 ## Social
 
