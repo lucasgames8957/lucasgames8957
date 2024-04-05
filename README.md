@@ -1,6 +1,6 @@
 # Lucasgames8957 [![Lucas's Gravatar](https://gravatar.com/avatar/ee66228db4c81b93379dc71bcae33ed12dd4e9e53afbf7083ed26c49b419db16)](https://github.com/lucasgames8957)
 
-Hello, it's Lucasgames8957 (or Furry-Lucas), the coder who is always making revisions to the visual elements of any program, and fixing anything that is broken or incorrect.
+Hello, it's Lucasgames8957, the coder who is always making revisions to the visual elements of any program, and fixing anything that is broken or incorrect.
 
 ![Lucas's Github Trophies](https://github-trophies.vercel.app/?username=lucasgames8957&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
@@ -45,11 +45,11 @@ Hello, it's Lucasgames8957 (or Furry-Lucas), the coder who is always making revi
 
 ## Social
 
-I do have social media and I will be giving the links to the ones I am currently using.
+I will be giving the links to the ones I am currently using.
 
 [Gravatar![Lucas's Gravatar](https://gravatar.com/avatar/9a4d8a4d1f6db4d1474c0993289131d0?size=75)](https://gravatar.com/lucasmutter)
 
-[Twitter](https://twitter.com/lucasgames8957)
+[Twitter](https://twitter.com/@lucasgames8957)
 
 [Youtube![Lucas's Youtube PFP](https://yt3.googleusercontent.com/qyBdIpj0B4Zr87EsEhYSvOgCz4KBWA9u5QkmbYNPqLULCd67wK_BRcXN81HW3q-zE9UHNNMx=s176-c-k-c0x00ffffff-no-rj)](https://youtube.com/@Lmutt090)
 
@@ -74,6 +74,20 @@ These are all my gravatar pfp's
 ![lukejmutter](https://gravatar.com/avatar/2094db38ffda38acfe565ae318c16fcc?size=256)![lucas-mutter](https://gravatar.com/avatar/05f9366856866b5f25a7c98cda855b8e?size=256)![lucasgames8957](https://gravatar.com/avatar/9a4d8a4d1f6db4d1474c0993289131d0?size=256)![lucasmutter.furry](https://gravatar.com/avatar/9a7a327d60ea243dc3e8d493bb067f75?size=256)![lmutt090](https://gravatar.com/avatar/05033d49692f37fecc663e97b6808c89?size=256)![lucasmutter.furry](https://gravatar.com/avatar/de6fc33a864350a93b65bf63e7984819?size=256)
 
 ## Extra
+
+### Data from myself
+
+#### Aliases
+
+```
+Main: lucasgames8957
+Xbox: lucasgames#8957
+Github (main): Lucasgames8957
+Github (alt): Furry-Lucas
+Twitter (X): @lucasgames8957
+Fandom (old [01-3-2020 to unknown]): lucasgames8957
+Fandom (current): Lucas The Lemon Eater
+```
 
 ### Data from friends
 
