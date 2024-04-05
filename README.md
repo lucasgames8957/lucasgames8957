@@ -6,14 +6,14 @@ Hello, it's Lucasgames8957 (or Furry-Lucas), the coder who is always making revi
 
 ## Table of Contents
 
-* [Data](https://github.com/lucasgames8957#data)
-* [Stats](https://github.com/lucasgames8957#github-stats)
-* [WakaTime Stats](https://github.com/lucasgames8957#wakatime-stats)
+* [Data](#data)
+* [Stats](#github-stats)
+* [WakaTime Stats](#wakatime-stats)
 * [Road Card](#road-card)
-* [Social](https://github.com/lucasgames8957#social)
-* [Tshock Plugins](https://github.com/lucasgames8957#tshock-plugins)
-* [Requests](https://github.com/lucasgames8957#requests)
-* [Extra](https://github.com/lucasgames8957#extra)
+* [Social](#social)
+* [Tshock Plugins](#tshock-plugins)
+* [Requests](#requests)
+* [Extra](#extra)
 
 ## Data
 
