@@ -49,6 +49,8 @@ I will be giving the links to the ones I am currently using.
 
 [Gravatar![Lucas's Gravatar Profile Picture](https://gravatar.com/avatar/9a4d8a4d1f6db4d1474c0993289131d0?size=75)](https://gravatar.com/lucasmutter)
 
+[Link-In-Bio![Lucas's LIB pfp](https://lucas-mutter.carrd.co/assets/images/image01.jpg?v=75a3c5fe)](https://lucas-mutter.carrd.co/)
+
 [Twitter](https://twitter.com/@lucasgames8957)
 
 [Youtube![Lucas's Youtube PFP](https://yt3.googleusercontent.com/qyBdIpj0B4Zr87EsEhYSvOgCz4KBWA9u5QkmbYNPqLULCd67wK_BRcXN81HW3q-zE9UHNNMx=s176-c-k-c0x00ffffff-no-rj)](https://youtube.com/@Lmutt090)
