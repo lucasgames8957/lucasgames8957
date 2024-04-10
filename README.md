@@ -47,7 +47,7 @@ Hello, it's Lucasgames8957, the coder who is always making revisions to the visu
 
 I will be giving the links to the ones I am currently using.
 
-[Gravatar![Lucas's Gravatar](https://gravatar.com/avatar/9a4d8a4d1f6db4d1474c0993289131d0?size=75)](https://gravatar.com/lucasmutter)
+[Gravatar![Lucas's Gravatar Profile Picture](https://gravatar.com/avatar/9a4d8a4d1f6db4d1474c0993289131d0?size=75)](https://gravatar.com/lucasmutter)
 
 [Twitter](https://twitter.com/@lucasgames8957)
 
