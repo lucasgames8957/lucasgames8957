@@ -87,6 +87,9 @@ Github (alt): Furry-Lucas
 Twitter (X): @lucasgames8957
 Fandom (old [01-3-2020 to 1-1-2024]): lucasgames8957
 Fandom (current): Lucas The Lemon Eater
+Steam (URL Slug): lucas-mutter
+Steam (Username): lucasgames8957
+TFC (Terraria Community Forums): Lucas_The_Lemon_Eater
 ```
 
 ### Data from friends
