@@ -1,4 +1,4 @@
-# Lucasgames8957 [![Lucas's Gravatar](https://gravatar.com/avatar/ee66228db4c81b93379dc71bcae33ed12dd4e9e53afbf7083ed26c49b419db16)](https://github.com/lucasgames8957)
+# Lucasgames8957 [![Lucas's Gravatar](https://gravatar.com/avatar/ee66228db4c81b93379dc71bcae33ed12dd4e9e53afbf7083ed26c49b419db16?rating=pg)](https://github.com/lucasgames8957)
 
 Hello, it's Lucasgames8957, the coder who is always making revisions to the visual elements of any program, and fixing anything that is broken or incorrect.
 
