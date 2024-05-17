@@ -4,6 +4,13 @@ Hello, it's Lucasgames8957, the coder who is always making revisions to the visu
 
 ![Lucas's Github Trophies](https://github-trophies.vercel.app/?username=lucasgames8957&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
+## Puter
+
+It's good, you should try it
+
+[![myputercover](https://github.com/lucasgames8957/lucasgames8957/assets/116188960/1b148c44-6c12-484d-8842-5e018da61125)](https://github.com/HeyPuter/puter)
+
+
 ## Table of Contents
 
 * [Data](#data)
