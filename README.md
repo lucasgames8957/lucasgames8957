@@ -86,7 +86,8 @@ Main: lucasgames8957
 Xbox: lucasgames#8957
 Github (main): Lucasgames8957
 Github (alt): Furry-Lucas
-Twitter (X): @lucasgames8957
+Twitter (X,old): @lucasgames8957
+Twitter (X,Current): @QwerkyFurry12231
 Fandom (old [01-3-2020 to 1-1-2024]): lucasgames8957
 Fandom (current): Lucas The Lemon Eater
 Steam (URL Slug): lucas-mutter
